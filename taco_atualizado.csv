@@ -1,0 +1,367 @@
+id,nome,umidade_pct,energia_kcal,energia_kj,proteina_g,lipideos_g,colesterol_mg,carboidrato_g,fibra_g,cinzas_g,calcio_mg,magnesio_mg,cluster,perfil_nutricional
+1,Arroz integral cozido,70.1,124.0,517.0,2.6,1.0,76.5,25.8,2.7,0.5,5.0,59.0,3,Leves / Baixa caloria
+3,Arroz tipo 1 cozido,69.1,128.0,537.0,2.5,0.2,76.5,28.1,1.6,0.1,4.0,2.0,3,Leves / Baixa caloria
+5,Arroz tipo 2 cozido,68.7,130.0,544.0,2.6,0.4,76.5,28.2,1.1,0.1,3.0,6.0,3,Leves / Baixa caloria
+8, Biscoito doce maisena,3.2,443.0,1853.0,8.1,12.0,76.5,75.2,2.1,1.5,54.0,37.0,1,Alta Energia/Carbo
+9, Biscoito doce recheado com chocolate,2.2,472.0,1974.0,6.4,19.6,76.5,70.5,3.0,1.3,27.0,48.0,1,Alta Energia/Carbo
+10, Biscoito doce recheado com morango,2.7,471.0,1971.0,5.7,19.6,76.5,71.0,1.5,1.0,36.0,27.0,1,Alta Energia/Carbo
+11, Biscoito doce wafer recheado de chocolate,1.2,502.0,2102.0,5.6,24.7,76.5,67.5,1.8,1.1,23.0,48.0,1,Alta Energia/Carbo
+12, Biscoito doce wafer recheado de morango,1.2,513.0,2148.0,4.5,26.4,1.0,67.4,0.8,0.6,14.0,19.0,1,Alta Energia/Carbo
+13, Biscoito salgado cream cracker,4.1,432.0,1806.0,10.1,14.4,76.5,68.7,2.5,2.7,20.0,40.0,1,Alta Energia/Carbo
+14, Bolo mistura para,1.0,419.0,1752.0,6.2,6.1,76.5,84.7,1.7,2.0,59.0,28.0,1,Alta Energia/Carbo
+15, Bolo pronto aipim,34.1,324.0,1355.0,4.4,12.7,73.0,47.9,0.7,0.8,85.0,10.0,1,Alta Energia/Carbo
+16, Bolo pronto chocolate,19.3,410.0,1715.0,6.2,18.5,77.0,54.7,1.4,1.3,75.0,28.0,1,Alta Energia/Carbo
+17, Bolo pronto coco,29.3,333.0,1395.0,5.7,11.3,63.0,52.3,1.1,1.4,57.0,16.0,1,Alta Energia/Carbo
+18, Bolo pronto milho,36.7,311.0,1303.0,4.8,12.4,82.0,45.1,0.7,1.0,83.0,10.0,1,Alta Energia/Carbo
+20, Canjica com leite integral,72.5,112.0,471.0,2.4,1.2,1.0,23.6,1.2,0.3,43.0,6.0,3,Leves / Baixa caloria
+21, Cereais milho flocos com sal,9.3,370.0,1546.0,7.3,1.6,76.5,80.8,5.3,1.0,2.0,20.0,1,Alta Energia/Carbo
+22, Cereais milho flocos sem sal,11.2,363.0,1520.0,6.9,1.2,76.5,80.4,1.8,0.3,2.0,17.0,1,Alta Energia/Carbo
+23, Cereais mingau milho infantil,4.7,394.0,1650.0,6.4,1.1,76.5,87.3,3.2,0.5,219.0,16.0,1,Alta Energia/Carbo
+24, Cereais mistura para vitamina trigo cevada e aveia,4.4,381.0,1595.0,8.9,2.1,76.5,81.6,5.0,3.0,584.0,72.0,1,Alta Energia/Carbo
+25, Cereal matinal milho,5.5,365.0,1529.0,7.2,1.0,76.5,83.8,4.1,2.5,143.0,11.0,1,Alta Energia/Carbo
+26, Cereal matinal milho açúcar,4.3,377.0,1576.0,4.7,0.7,76.5,88.8,2.1,1.5,56.0,8.0,1,Alta Energia/Carbo
+27, Creme de arroz pó,7.3,386.0,1615.0,7.0,1.2,76.5,83.9,1.1,0.5,7.0,51.0,1,Alta Energia/Carbo
+28, Creme de milho pó,5.7,333.0,1393.0,4.8,1.6,76.5,86.1,3.7,1.7,323.0,30.0,1,Alta Energia/Carbo
+29, Curau milho verde,81.6,78.0,328.0,2.4,1.6,5.0,13.9,0.5,0.5,53.0,16.0,3,Leves / Baixa caloria
+30, Curau milho verde mistura para,3.9,402.0,1683.0,2.2,13.4,76.5,79.8,2.5,0.7,31.0,9.0,1,Alta Energia/Carbo
+31, Farinha de arroz enriquecida,12.7,363.0,1519.0,1.3,0.3,76.5,85.5,0.6,0.2,1.0,4.0,1,Alta Energia/Carbo
+32, Farinha de centeio integral,10.8,336.0,1405.0,12.5,1.8,76.5,73.3,15.5,1.7,34.0,120.0,2,Alimentos em Fibras
+33, Farinha de milho amarela,11.8,351.0,1467.0,7.2,1.5,76.5,79.1,5.5,0.5,1.0,31.0,1,Alta Energia/Carbo
+34, Farinha de rosca,9.8,371.0,1550.0,11.4,1.5,76.5,75.8,4.8,1.6,35.0,57.0,1,Alta Energia/Carbo
+35, Farinha de trigo,13.0,360.0,1508.0,9.8,1.4,76.5,75.1,2.3,0.8,18.0,31.0,1,Alta Energia/Carbo
+36, Farinha láctea de cereais,2.7,415.0,1736.0,11.9,5.8,11.0,77.8,1.9,1.9,196.0,58.0,1,Alta Energia/Carbo
+37, Lasanha massa fresca cozida,59.6,164.0,685.0,5.8,1.2,76.5,32.5,1.6,0.9,10.0,4.0,3,Leves / Baixa caloria
+39, Macarrão instantâneo,6.0,436.0,1824.0,8.8,17.2,76.5,62.4,5.6,5.6,18.0,19.0,1,Alta Energia/Carbo
+45, Milho verde enlatado drenado,76.2,98.0,408.0,3.2,2.4,76.5,17.1,4.6,1.1,2.0,20.0,3,Leves / Baixa caloria
+46, Mingau tradicional pó,8.1,373.0,1562.0,0.6,0.4,76.5,89.3,0.9,1.6,522.0,4.0,1,Alta Energia/Carbo
+47, Pamonha barra para cozimento pré-cozida,61.3,171.0,716.0,2.6,4.8,76.5,30.7,2.4,0.6,4.0,15.0,3,Leves / Baixa caloria
+48, Pão aveia forma,19.9,343.0,1435.0,12.4,5.7,76.5,59.6,6.0,2.5,109.0,57.0,1,Alta Energia/Carbo
+49, Pão de soja,26.0,309.0,1292.0,11.3,3.6,76.5,56.5,5.7,2.5,90.0,48.0,1,Alta Energia/Carbo
+50, Pão glúten forma,40.7,253.0,1059.0,12.0,2.7,76.5,44.1,2.5,0.5,156.0,24.0,1,Alta Energia/Carbo
+51, Pão milho forma,30.4,292.0,1222.0,8.3,3.1,6.0,56.4,4.3,1.8,78.0,29.0,1,Alta Energia/Carbo
+52, Pão trigo forma integral,34.7,253.0,1059.0,9.4,3.7,76.5,49.9,6.9,2.3,132.0,60.0,1,Alta Energia/Carbo
+53, Pão trigo francês,28.5,300.0,1254.0,8.0,3.1,76.5,58.6,2.3,1.8,16.0,25.0,1,Alta Energia/Carbo
+54, Pão trigo sovado,25.8,311.0,1301.0,8.4,2.8,17.0,61.5,2.4,1.5,52.0,22.0,1,Alta Energia/Carbo
+56, Pastel de carne frito,22.9,388.0,1625.0,10.1,20.1,25.0,43.8,1.0,3.1,13.0,14.0,1,Alta Energia/Carbo
+58, Pastel de queijo frito,17.5,422.0,1766.0,8.7,22.7,15.0,48.1,0.9,2.9,126.0,15.0,1,Alta Energia/Carbo
+60, Pastel massa frita,1.0,570.0,2384.0,6.0,40.9,76.5,49.3,1.3,2.8,11.0,13.0,1,Alta Energia/Carbo
+61, Pipoca com óleo de soja sem sal,2.8,448.0,1876.0,9.9,15.9,76.5,70.3,14.3,1.0,3.0,91.0,2,Alimentos em Fibras
+62, Polenta pré-cozida,72.7,103.0,430.0,2.3,0.3,76.5,23.3,2.4,1.4,1.0,4.0,3,Leves / Baixa caloria
+63, Torrada pão francês,9.0,377.0,1579.0,10.5,3.3,76.5,74.6,3.4,2.6,19.0,32.0,1,Alta Energia/Carbo
+64, Abóbora cabotian cozida,86.4,48.0,201.0,1.4,0.7,76.5,10.8,2.5,0.7,8.0,9.0,3,Leves / Baixa caloria
+68, Abóbora moranga refogada,92.5,29.0,121.0,0.4,0.8,76.5,6.0,1.5,0.4,19.0,7.0,3,Leves / Baixa caloria
+70, Abobrinha italiana cozida,95.3,15.0,63.0,1.1,0.2,76.5,3.0,1.6,0.4,17.0,17.0,3,Leves / Baixa caloria
+72, Abobrinha italiana refogada,93.5,24.0,102.0,1.1,0.8,76.5,4.2,1.4,0.4,21.0,13.0,3,Leves / Baixa caloria
+85, Almeirão refogado,86.5,65.0,272.0,1.7,4.8,76.5,5.7,3.4,1.2,63.0,17.0,3,Leves / Baixa caloria
+86, Batata baroa cozida,79.3,80.0,335.0,0.9,0.2,76.5,18.9,1.8,0.8,12.0,8.0,3,Leves / Baixa caloria
+88, Batata doce cozida,80.4,77.0,321.0,0.6,0.1,76.5,18.4,2.2,0.4,17.0,11.0,3,Leves / Baixa caloria
+90, Batata frita tipo chips industrializada,2.7,543.0,2271.0,5.6,36.6,76.5,51.2,2.5,3.9,12.0,24.0,1,Alta Energia/Carbo
+91, Batata inglesa cozida,86.4,52.0,216.0,1.2,5.8,76.5,11.9,1.3,0.5,4.0,5.0,3,Leves / Baixa caloria
+93, Batata inglesa frita,44.1,267.0,1118.0,5.0,13.1,76.5,35.6,8.1,2.2,6.0,14.0,2,Alimentos em Fibras
+94, Batata inglesa sauté,83.1,68.0,284.0,1.3,0.9,76.5,14.1,1.4,0.6,4.0,6.0,3,Leves / Baixa caloria
+95, Berinjela cozida,94.4,19.0,79.0,0.7,0.1,76.5,4.5,2.5,0.3,11.0,9.0,3,Leves / Baixa caloria
+97, Beterraba cozida,90.6,32.0,135.0,1.3,0.1,76.5,7.2,1.9,0.8,15.0,17.0,3,Leves / Baixa caloria
+99, Biscoito polvilho doce,5.4,438.0,1831.0,1.3,12.2,9.0,80.5,1.2,0.5,30.0,6.0,1,Alta Energia/Carbo
+100, Brócolis cozido,92.6,25.0,103.0,2.1,0.5,76.5,4.4,3.4,0.4,51.0,15.0,3,Leves / Baixa caloria
+102, Cará cozido,78.9,78.0,325.0,1.5,0.1,76.5,18.9,2.6,0.6,5.0,15.0,3,Leves / Baixa caloria
+106, Catalonha refogada,87.4,63.0,265.0,2.0,4.8,76.5,4.8,3.7,1.0,63.0,16.0,3,Leves / Baixa caloria
+109, Cenoura cozida,91.7,30.0,125.0,0.8,0.2,76.5,6.7,2.6,0.6,26.0,14.0,3,Leves / Baixa caloria
+112, Chuchu cozido,94.6,19.0,78.0,0.4,5.8,76.5,4.8,1.0,0.2,8.0,7.0,3,Leves / Baixa caloria
+114, Coentro folhas desidratadas,10.6,309.0,1293.0,20.9,10.4,76.5,48.0,37.3,10.2,784.0,393.0,2,Alimentos em Fibras
+116, Couve manteiga refogada ,81.5,90.0,378.0,1.7,6.6,76.5,8.7,5.7,1.5,177.0,26.0,3,Leves / Baixa caloria
+118, Couve-flor cozida,94.3,19.0,80.0,1.2,0.3,76.5,3.9,2.1,0.3,16.0,5.0,3,Leves / Baixa caloria
+120, Espinafre Nova Zelândia refogado,86.6,67.0,281.0,2.7,5.4,76.5,4.2,2.5,1.0,112.0,123.0,3,Leves / Baixa caloria
+122, Farinha de mandioca torrada,8.3,365.0,1528.0,1.2,0.3,76.5,89.2,6.5,1.0,76.0,40.0,1,Alta Energia/Carbo
+123, Farinha de puba,9.8,360.0,1507.0,1.6,0.5,76.5,87.3,4.2,0.8,41.0,27.0,1,Alta Energia/Carbo
+124, Fécula de mandioca,17.8,331.0,1384.0,0.5,0.3,76.5,81.1,0.6,0.3,12.0,3.0,1,Alta Energia/Carbo
+129, Mandioca cozida,68.7,125.0,524.0,0.6,0.3,76.5,30.1,1.6,0.4,19.0,27.0,3,Leves / Baixa caloria
+131, Mandioca farofa temperada,6.4,406.0,1697.0,2.1,9.1,76.5,80.3,7.8,2.1,66.0,34.0,1,Alta Energia/Carbo
+132, Mandioca frita,36.6,300.0,1255.0,1.4,11.2,76.5,50.3,1.9,0.6,23.0,95.0,1,Alta Energia/Carbo
+136, Nhoque batata cozido,55.0,181.0,756.0,5.9,1.9,15.0,36.8,1.8,0.5,11.0,18.0,3,Leves / Baixa caloria
+138, Palmito juçara em conserva,91.4,23.0,97.0,1.8,0.4,76.5,4.3,3.2,2.1,58.0,34.0,3,Leves / Baixa caloria
+139, Palmito pupunha em conserva,89.4,29.0,123.0,2.5,0.5,76.5,5.5,2.6,2.1,32.0,25.0,3,Leves / Baixa caloria
+140, Pão de queijo assado,33.7,363.0,1519.0,5.1,24.6,68.0,34.2,0.6,2.3,102.0,8.0,1,Alta Energia/Carbo
+146, Polvilho doce,12.6,351.0,1470.0,0.4,5.8,76.5,86.8,0.2,0.2,27.0,4.0,1,Alta Energia/Carbo
+151, Repolho roxo refogado,88.7,42.0,175.0,1.8,1.2,76.5,7.6,1.8,0.7,43.0,17.0,3,Leves / Baixa caloria
+154, Seleta de legumes enlatada,82.1,57.0,237.0,3.4,0.4,76.5,12.7,3.1,1.4,16.0,16.0,3,Leves / Baixa caloria
+158, Tomate extrato,79.7,61.0,255.0,2.4,0.2,76.5,15.0,2.8,2.8,29.0,29.0,3,Leves / Baixa caloria
+159, Tomate molho industrializado,88.1,38.0,161.0,1.4,0.9,76.5,7.7,3.1,1.9,12.0,17.0,3,Leves / Baixa caloria
+160, Tomate purê,90.8,28.0,117.0,1.4,5.8,76.5,6.9,1.0,1.0,13.0,15.0,3,Leves / Baixa caloria
+161, Tomate salada,93.6,21.0,86.0,0.8,5.8,76.5,5.1,2.3,0.4,7.0,10.0,3,Leves / Baixa caloria
+165, Abacaxi polpa congelada,91.3,31.0,128.0,0.5,0.1,76.5,7.8,0.3,0.3,14.0,10.0,3,Leves / Baixa caloria
+167, Açaí polpa com xarope de guaraná e glucose,73.9,110.0,461.0,0.7,3.7,76.5,21.5,1.7,0.3,22.0,13.0,3,Leves / Baixa caloria
+168, Açaí polpa congelada,88.7,58.0,243.0,0.8,3.9,76.5,6.2,2.6,0.3,35.0,17.0,3,Leves / Baixa caloria
+170, Acerola polpa congelada,93.6,22.0,92.0,0.6,5.8,76.5,5.5,0.7,0.3,8.0,9.0,3,Leves / Baixa caloria
+171, Ameixa calda enlatada ,52.2,183.0,765.0,0.4,5.8,76.5,46.9,0.5,0.5,13.0,10.0,3,Leves / Baixa caloria
+173, Ameixa em calda enlatada drenada ,50.3,177.0,742.0,1.0,0.3,76.5,47.7,4.5,0.7,39.0,14.0,3,Leves / Baixa caloria
+176, Banana doce em barra,21.1,280.0,1172.0,2.2,0.1,76.5,75.7,3.8,1.0,12.0,49.0,1,Alta Energia/Carbo
+185, Cajá polpa congelada,92.4,26.0,110.0,0.6,0.2,76.5,6.4,1.4,0.4,9.0,7.0,3,Leves / Baixa caloria
+187, Caju polpa congelada,89.8,37.0,153.0,0.5,0.2,76.5,9.4,0.8,0.2,1.0,7.0,3,Leves / Baixa caloria
+188, Caju suco concentrado envasado,88.4,45.0,189.0,0.4,0.2,76.5,10.7,0.6,0.3,1.0,8.0,3,Leves / Baixa caloria
+193, Cupuaçu polpa congelada,86.6,49.0,204.0,0.8,0.6,76.5,11.4,1.6,0.6,5.0,14.0,3,Leves / Baixa caloria
+195, Figo enlatado em calda,48.8,184.0,771.0,0.6,0.2,76.5,50.3,2.0,0.2,33.0,7.0,3,Leves / Baixa caloria
+198, Goiaba doce em pasta,24.8,269.0,1125.0,0.6,0.0,76.5,74.1,3.7,0.5,10.0,6.0,1,Alta Energia/Carbo
+199, Goiaba doce cascão,20.3,286.0,1195.0,0.4,0.1,76.5,78.7,4.4,0.5,15.0,10.0,1,Alta Energia/Carbo
+202, Graviola polpa congelada,89.2,38.0,160.0,0.6,0.1,76.5,9.8,1.2,0.4,6.0,10.0,3,Leves / Baixa caloria
+209, Laranja baía suco,90.2,37.0,153.0,0.7,5.8,76.5,8.7,2.2,0.4,6.0,8.0,3,Leves / Baixa caloria
+211, Laranja da terra suco,89.2,41.0,171.0,0.7,0.1,76.5,9.6,1.0,0.4,13.0,10.0,3,Leves / Baixa caloria
+213, Laranja lima suco,89.7,39.0,165.0,0.7,0.1,76.5,9.2,0.4,0.3,8.0,11.0,3,Leves / Baixa caloria
+215, Laranja pêra suco,91.3,33.0,137.0,0.7,0.1,76.5,7.6,2.2,0.3,7.0,8.0,3,Leves / Baixa caloria
+217, Laranja valência suco,90.5,36.0,151.0,0.5,0.1,76.5,8.6,0.4,0.3,9.0,10.0,3,Leves / Baixa caloria
+218, Limão cravo suco,94.2,14.0,59.0,0.3,5.8,76.5,5.2,2.2,0.2,10.0,9.0,3,Leves / Baixa caloria
+219, Limão galego suco,91.8,22.0,93.0,0.6,0.1,76.5,7.3,2.2,0.3,5.0,6.0,3,Leves / Baixa caloria
+224, Mamão doce em calda drenado,45.5,196.0,819.0,0.2,0.1,76.5,54.0,1.3,0.2,20.0,6.0,3,Leves / Baixa caloria
+227, Mamão verde doce em calda drenado,41.9,209.0,876.0,0.3,0.1,76.5,57.6,1.2,0.1,12.0,5.0,1,Alta Energia/Carbo
+230, Manga polpa congelada,86.5,48.0,202.0,0.4,0.2,76.5,12.5,1.1,0.4,7.0,9.0,3,Leves / Baixa caloria
+233, Maracujá polpa congelada,88.9,39.0,162.0,0.8,0.2,76.5,9.6,0.5,0.5,5.0,10.0,3,Leves / Baixa caloria
+234, Maracujá suco concentrado envasado,88.9,42.0,176.0,0.8,0.2,76.5,9.6,0.4,0.5,4.0,4.0,3,Leves / Baixa caloria
+245, Pêssego enlatado em calda,82.2,63.0,264.0,0.7,5.8,76.5,16.9,1.0,0.2,4.0,4.0,3,Leves / Baixa caloria
+248, Pitanga polpa congelada,94.6,19.0,80.0,0.3,0.1,76.5,4.8,0.7,0.3,8.0,6.0,3,Leves / Baixa caloria
+252, Tangerina Poncã suco,90.4,36.0,151.0,0.5,5.8,76.5,8.8,2.2,0.3,4.0,6.0,3,Leves / Baixa caloria
+255, Umbu polpa congelada,90.2,34.0,142.0,0.5,0.1,76.5,8.8,1.3,0.4,11.0,8.0,3,Leves / Baixa caloria
+258, Uva suco concentrado envasado,85.1,58.0,241.0,7.0,5.8,76.5,14.7,0.2,0.2,9.0,7.0,3,Leves / Baixa caloria
+259, Azeite de dendê,59.6,884.0,3699.0,7.0,100.0,76.5,9.4,2.2,1.1,19.0,17.0,1,Alta Energia/Carbo
+260, Azeite de oliva extra virgem,59.6,884.0,3699.0,7.0,100.0,76.5,9.4,2.2,1.1,19.0,17.0,1,Alta Energia/Carbo
+261, Manteiga com sal,15.8,726.0,3037.0,0.4,82.4,201.0,0.1,2.2,1.4,9.0,1.0,1,Alta Energia/Carbo
+262, Manteiga sem sal,13.6,758.0,3170.0,0.4,86.0,214.0,0.0,2.2,0.1,4.0,1.0,1,Alta Energia/Carbo
+263, Margarina com óleo hidrogenado com sal (65% de lipídeos),32.2,596.0,2494.0,7.0,67.4,76.5,0.0,2.2,1.9,6.0,1.0,1,Alta Energia/Carbo
+264, Margarina com óleo hidrogenado sem sal (80% de lipídeos),19.6,723.0,3023.0,7.0,81.7,76.5,0.0,2.2,0.2,3.0,1.0,1,Alta Energia/Carbo
+265, Margarina com óleo interesterificado com sal (65%de lipídeos),32.0,594.0,2487.0,7.0,67.2,76.5,0.0,2.2,1.2,5.0,1.0,1,Alta Energia/Carbo
+266, Margarina com óleo interesterificado sem sal (65% de lipídeos),33.4,593.0,2482.0,7.0,67.1,76.5,0.0,2.2,0.1,5.0,1.0,1,Alta Energia/Carbo
+267, Óleo de babaçu,59.6,884.0,3699.0,7.0,100.0,76.5,9.4,2.2,1.1,19.0,17.0,1,Alta Energia/Carbo
+268, Óleo de canola,59.6,884.0,3699.0,7.0,100.0,76.5,9.4,2.2,1.1,19.0,17.0,1,Alta Energia/Carbo
+269, Óleo de girassol,59.6,884.0,3699.0,7.0,100.0,76.5,9.4,2.2,1.1,19.0,17.0,1,Alta Energia/Carbo
+270, Óleo de milho,59.6,884.0,3699.0,7.0,100.0,76.5,9.4,2.2,1.1,19.0,17.0,1,Alta Energia/Carbo
+271, Óleo de pequi,59.6,884.0,3699.0,7.0,100.0,76.5,9.4,2.2,1.1,19.0,17.0,1,Alta Energia/Carbo
+272, Óleo de soja,59.6,884.0,3699.0,7.0,100.0,76.5,9.4,2.2,1.1,19.0,17.0,1,Alta Energia/Carbo
+273, Abadejo filé congelado assado,74.3,112.0,467.0,23.5,1.2,103.0,0.0,2.2,1.6,23.0,20.0,0,Proteinas
+274, Abadejo filé congelado.cozido,79.7,91.0,381.0,19.3,0.9,87.0,0.0,2.2,0.9,17.0,16.0,0,Proteinas
+276, Abadejo filé congelado grelhado,71.0,130.0,542.0,27.6,1.3,136.0,0.0,2.2,1.6,20.0,22.0,0,Proteinas
+277, Atum conserva em óleo,64.5,166.0,694.0,26.2,6.0,53.0,0.0,2.2,1.5,7.0,29.0,0,Proteinas
+280, Bacalhau salgado refogado,65.9,140.0,584.0,24.0,3.6,112.0,1.2,2.2,5.3,59.0,15.0,0,Proteinas
+281, Cação posta com farinha de trigo frita,60.6,208.0,872.0,25.0,10.0,75.0,3.1,0.5,1.4,30.0,26.0,0,Proteinas
+282, Cação posta cozida,75.9,116.0,485.0,25.6,0.7,83.0,0.0,2.2,1.2,10.0,21.0,0,Proteinas
+284, Camarão Rio Grande grande cozido,78.7,90.0,377.0,19.0,1.0,241.0,0.0,2.2,1.7,90.0,19.0,0,Proteinas
+286, Camarão Sete Barbas sem cabeça com casca frito,61.0,231.0,968.0,18.4,15.6,283.0,2.9,2.2,2.1,960.0,74.0,0,Proteinas
+287, Caranguejo cozido,77.0,83.0,346.0,18.5,0.4,85.0,0.0,2.2,3.5,357.0,52.0,0,Proteinas
+289, Corimbatá assado,59.9,261.0,1094.0,19.9,19.6,80.0,0.0,2.2,1.0,22.0,24.0,0,Proteinas
+290, Corimbatá cozido,64.6,239.0,999.0,20.1,16.9,75.0,0.0,2.2,0.8,65.0,23.0,0,Proteinas
+293, Corvina grande assada,69.0,147.0,613.0,26.8,3.6,117.0,0.0,2.2,1.3,60.0,24.0,0,Proteinas
+294, Corvina grande cozida,73.6,100.0,419.0,23.4,2.6,123.0,0.0,2.2,0.9,69.0,22.0,0,Proteinas
+295, Dourada de água doce fresca,76.2,131.0,549.0,18.8,5.6,52.0,0.0,2.2,1.1,12.0,26.0,0,Proteinas
+297, Lambari congelado frito,40.1,327.0,1368.0,28.4,22.8,246.0,0.0,2.2,6.2,1881.0,66.0,0,Proteinas
+299, Manjuba com farinha de trigo frita,41.3,344.0,1437.0,23.5,22.6,282.0,10.2,0.4,2.4,763.0,47.0,0,Proteinas
+300, Manjuba frita,40.7,349.0,1462.0,30.1,24.5,270.0,0.0,2.2,4.2,575.0,32.0,0,Proteinas
+301, Merluza filé assado,70.7,122.0,510.0,26.6,0.9,91.0,0.0,2.2,1.2,36.0,20.0,0,Proteinas
+303, Merluza filé frito,63.5,192.0,802.0,26.9,8.5,109.0,0.0,2.2,1.5,36.0,38.0,0,Proteinas
+305, Pescada branca frita,57.0,223.0,933.0,27.4,11.8,165.0,0.0,2.2,3.2,378.0,30.0,0,Proteinas
+306, Pescada filé com farinha de trigo frito,53.2,283.0,1186.0,21.4,19.1,73.0,5.0,2.2,1.2,26.0,28.0,0,Proteinas
+308, Pescada filé frito,66.8,154.0,645.0,28.6,3.6,81.0,0.0,2.2,1.7,10.0,21.0,0,Proteinas
+309, Pescada filé molho escabeche,74.5,142.0,594.0,11.8,8.0,43.0,5.0,0.8,0.7,20.0,18.0,3,Leves / Baixa caloria
+311, Pintado assado,57.0,192.0,801.0,36.5,4.0,126.0,0.0,2.2,2.0,114.0,42.0,0,Proteinas
+313, Pintado grelhado,65.5,152.0,637.0,30.8,2.3,99.0,0.0,2.2,1.6,69.0,27.0,0,Proteinas
+315, Salmão filé com pele fresco  grelhado,60.9,229.0,957.0,23.9,14.0,85.0,0.0,2.2,1.3,29.0,28.0,0,Proteinas
+317, Salmão sem pele fresco grelhado,58.1,243.0,1015.0,26.1,14.5,73.0,0.0,2.2,1.6,15.0,38.0,0,Proteinas
+318, Sardinha assada,60.1,164.0,688.0,32.2,3.0,109.0,0.0,2.2,4.4,438.0,51.0,0,Proteinas
+319, Sardinha conserva em óleo,55.1,285.0,1192.0,15.9,24.0,73.0,0.0,2.2,2.9,550.0,35.0,0,Proteinas
+320, Sardinha frita,48.5,257.0,1075.0,33.4,12.7,103.0,0.0,2.2,4.3,482.0,39.0,0,Proteinas
+323, Apresuntado,73.7,129.0,539.0,13.5,6.7,38.0,2.9,2.2,3.3,23.0,15.0,3,Leves / Baixa caloria
+324, Caldo de carne tablete,2.9,241.0,1007.0,7.8,16.6,76.5,15.1,0.6,57.6,129.0,22.0,3,Leves / Baixa caloria
+325, Caldo de galinha tablete,3.4,251.0,1052.0,6.3,20.4,2.0,10.6,11.8,59.3,16.0,13.0,2,Alimentos em Fibras
+326, Carne bovina acém moído cozido,61.6,212.0,889.0,26.7,10.9,103.0,0.0,2.2,0.8,4.0,17.0,0,Proteinas
+328, Carne bovina acém sem gordura cozido,60.4,215.0,898.0,27.3,10.9,107.0,0.0,2.2,0.8,7.0,14.0,0,Proteinas
+331, Carne bovina almôndegas fritas,48.1,272.0,1137.0,18.2,15.8,36.0,14.3,2.2,3.7,27.0,48.0,0,Proteinas
+332, Carne bovina bucho cozido,74.1,133.0,557.0,21.6,4.5,245.0,0.0,2.2,0.3,13.0,7.0,0,Proteinas
+335, Carne bovina capa de contra-filé com gordura grelhada,47.9,312.0,1304.0,30.7,20.0,120.0,0.0,2.2,1.1,7.0,18.0,0,Proteinas
+337, Carne bovina capa de contra-filé sem gordura grelhada,53.7,239.0,1002.0,35.1,10.0,80.0,0.0,2.2,1.3,9.0,26.0,0,Proteinas
+338, Carne bovina charque cozido,45.8,263.0,1099.0,36.4,11.9,113.0,0.0,2.2,3.6,15.0,13.0,0,Proteinas
+340, Carne bovina contra-filé à milanesa,42.2,352.0,1471.0,20.6,24.0,99.0,12.2,0.4,1.1,15.0,27.0,0,Proteinas
+342, Carne bovina contra-filé de costela grelhado,52.2,275.0,1150.0,29.9,16.3,98.0,0.0,2.2,1.2,4.0,24.0,0,Proteinas
+344, Carne bovina contra-filé com gordura grelhado,51.7,278.0,1163.0,32.4,15.5,144.0,0.0,2.2,1.2,4.0,19.0,0,Proteinas
+346, Carne bovina contra-filé sem gordura grelhado,57.5,194.0,810.0,35.9,4.5,102.0,0.0,2.2,1.3,5.0,21.0,0,Proteinas
+347, Carne bovina costela assada,43.2,373.0,1561.0,28.8,27.7,95.0,0.0,2.2,1.0,28.0,20.0,0,Proteinas
+349, Carne bovina coxão duro sem gordura cozido,58.5,217.0,906.0,31.9,8.9,71.0,0.0,2.2,0.9,4.0,14.0,0,Proteinas
+351, Carne bovina coxão mole sem gordura cozido,58.0,219.0,915.0,32.4,8.9,84.0,0.0,2.2,1.2,4.0,13.0,0,Proteinas
+353, Carne bovina cupim assado,48.4,330.0,1381.0,28.6,23.0,91.0,0.0,2.2,1.0,8.0,18.0,0,Proteinas
+356, Carne bovina fígado grelhado,55.0,225.0,942.0,29.9,9.0,601.0,4.2,2.2,2.0,6.0,10.0,0,Proteinas
+358, Carne bovina filé mingnon sem gordura grelhado,57.0,220.0,919.0,32.8,8.8,103.0,0.0,2.2,1.3,4.0,28.0,0,Proteinas
+359, Carne bovina flanco sem gordura cozido,62.0,196.0,818.0,29.4,7.8,62.0,0.0,2.2,0.9,4.0,14.0,0,Proteinas
+361, Carne bovina fraldinha com gordura cozida,49.7,338.0,1416.0,24.2,26.0,65.0,0.0,2.2,0.7,3.0,14.0,0,Proteinas
+363, Carne bovina lagarto cozido,57.6,222.0,931.0,32.9,9.1,56.0,0.0,2.2,0.9,4.0,13.0,0,Proteinas
+365, Carne bovina língua cozida,53.4,315.0,1318.0,21.4,24.8,105.0,0.0,2.2,0.7,6.0,12.0,0,Proteinas
+368, Carne bovina maminha grelhada,65.3,153.0,641.0,30.7,2.4,88.0,0.0,2.2,1.4,4.0,21.0,0,Proteinas
+370, Carne bovina miolo de alcatra sem gordura grelhado,52.4,241.0,1010.0,31.9,11.6,92.0,0.0,2.2,1.2,5.0,26.0,0,Proteinas
+371, Carne bovina músculo sem gordura cozido,62.8,194.0,811.0,31.2,6.7,56.0,0.0,2.2,0.9,5.0,13.0,0,Proteinas
+374, Carne bovina paleta sem gordura cozida,62.9,194.0,810.0,29.7,7.4,56.0,0.0,2.2,0.8,6.0,18.0,0,Proteinas
+377, Carne bovina patinho sem gordura grelhado,55.2,219.0,917.0,35.9,7.3,126.0,0.0,2.2,1.3,5.0,27.0,0,Proteinas
+378, Carne bovina peito sem gordura cozido,51.2,338.0,1416.0,22.2,27.0,100.0,0.0,2.2,0.7,4.0,14.0,0,Proteinas
+381, Carne bovina picanha com gordura grelhada,53.4,289.0,1208.0,26.4,19.5,92.0,0.0,2.2,1.1,4.0,24.0,0,Proteinas
+383, Carne bovina picanha sem gordura grelhada,54.6,238.0,998.0,31.9,11.3,100.0,0.0,2.2,1.2,4.0,25.0,0,Proteinas
+384, Carne bovina seca cozida,47.2,313.0,1309.0,26.9,21.9,100.0,0.0,2.2,4.7,13.0,12.0,0,Proteinas
+386, Coxinha de frango frita,42.2,283.0,1184.0,9.6,11.8,15.0,34.5,5.0,1.8,18.0,17.0,1,Alta Energia/Carbo
+388, Croquete de carne frito,39.2,347.0,1451.0,16.9,22.7,38.0,18.1,2.2,3.1,18.0,30.0,0,Proteinas
+389, Empada de frango pré-cozida assada,28.2,358.0,1499.0,6.9,15.6,23.0,47.5,2.2,1.8,16.0,18.0,1,Alta Energia/Carbo
+390, Empada de frango pré-cozida,32.0,377.0,1579.0,7.3,22.9,23.0,35.5,2.2,2.2,14.0,17.0,1,Alta Energia/Carbo
+392, Frango caipira inteiro com pele cozido,59.7,243.0,1016.0,23.9,15.6,110.0,0.0,2.2,0.8,17.0,18.0,0,Proteinas
+393, Frango caipira inteiro sem pele cozido,61.4,196.0,819.0,29.6,7.7,106.0,0.0,2.2,1.1,66.0,23.0,0,Proteinas
+395, Frango coração grelhado,63.5,207.0,867.0,22.4,12.1,280.0,0.6,2.2,1.3,8.0,20.0,0,Proteinas
+396, Frango coxa com pele assada,59.8,215.0,900.0,28.5,10.4,145.0,0.1,2.2,1.3,8.0,14.0,0,Proteinas
+398, Frango coxa sem pele cozida,66.7,167.0,701.0,26.9,5.8,133.0,0.0,2.2,0.9,12.0,11.0,0,Proteinas
+401, Frango filé à milanesa,54.9,221.0,924.0,28.5,7.8,84.0,7.5,1.1,1.3,9.0,35.0,0,Proteinas
+403, Frango inteiro sem pele assado,63.2,187.0,784.0,28.0,7.5,111.0,0.0,2.2,1.2,9.0,14.0,0,Proteinas
+404, Frango inteiro sem pele cozido,67.5,170.0,713.0,25.0,7.1,99.0,0.0,2.2,0.9,8.0,12.0,0,Proteinas
+406, Frango peito com pele assado,58.5,212.0,886.0,33.4,7.6,109.0,0.0,2.2,1.5,8.0,18.0,0,Proteinas
+408, Frango peito sem pele cozido,65.6,163.0,681.0,31.5,3.2,89.0,0.0,2.2,1.0,6.0,14.0,0,Proteinas
+410, Frango peito sem pele grelhado,63.8,159.0,666.0,32.0,2.5,89.0,0.0,2.2,1.4,5.0,18.0,0,Proteinas
+411, Frango sobrecoxa com pele assada,55.0,260.0,1086.0,28.7,15.2,158.0,0.0,2.2,1.3,11.0,15.0,0,Proteinas
+413, Frango sobrecoxa sem pele assada,55.6,233.0,974.0,29.2,12.0,145.0,0.0,2.2,1.5,12.0,17.0,0,Proteinas
+416, Hambúrguer bovino frito,52.5,258.0,1081.0,20.0,17.0,49.0,6.3,2.2,4.2,62.0,60.0,0,Proteinas
+417, Hambúrguer bovino grelhado,59.2,210.0,878.0,13.2,12.4,59.0,11.3,2.2,3.9,56.0,48.0,3,Leves / Baixa caloria
+419, Lingüiça frango frita,59.6,245.0,1027.0,18.3,18.5,76.0,0.0,2.2,3.8,15.0,29.0,0,Proteinas
+420, Lingüiça frango grelhada,58.6,244.0,1019.0,18.2,18.4,80.0,0.0,2.2,3.8,14.0,21.0,0,Proteinas
+422, Lingüiça porco frita,54.6,280.0,1170.0,20.5,21.3,75.0,0.0,2.2,3.9,8.0,18.0,0,Proteinas
+423, Lingüiça porco grelhada,50.5,296.0,1241.0,23.2,21.9,82.0,0.0,2.2,4.0,8.0,19.0,0,Proteinas
+424, Mortadela,56.4,269.0,1125.0,12.0,21.6,83.0,5.8,2.2,4.1,67.0,19.0,0,Proteinas
+425, Peru congelado assado,65.3,163.0,682.0,26.2,5.7,91.0,0.0,2.2,2.2,14.0,12.0,0,Proteinas
+428, Porco bisteca frita,47.3,311.0,1302.0,33.7,18.5,126.0,0.0,2.2,1.6,69.0,29.0,0,Proteinas
+429, Porco bisteca grelhada,51.8,280.0,1172.0,28.9,17.4,82.0,0.0,2.2,1.2,34.0,25.0,0,Proteinas
+430, Porco costela assada,36.9,402.0,1683.0,30.2,30.3,113.0,0.0,2.2,1.4,17.0,14.0,0,Proteinas
+432, Porco lombo assado,56.6,210.0,880.0,35.7,6.4,103.0,0.0,2.2,1.4,20.0,18.0,0,Proteinas
+435, Porco pernil assado,49.3,262.0,1097.0,32.1,13.9,110.0,0.0,2.2,1.4,18.0,27.0,0,Proteinas
+438, Presunto com capa de gordura,73.9,128.0,535.0,14.4,6.8,40.0,1.4,2.2,3.5,12.0,17.0,3,Leves / Baixa caloria
+439, Presunto sem capa de gordura,77.2,94.0,392.0,14.3,2.7,36.0,2.1,2.2,3.7,23.0,18.0,3,Leves / Baixa caloria
+440, Quibe assado,69.0,136.0,570.0,14.6,2.7,34.0,12.9,1.9,0.9,16.0,36.0,3,Leves / Baixa caloria
+442, Quibe frito,54.0,254.0,1062.0,14.9,15.8,38.0,12.3,2.2,3.0,22.0,39.0,0,Proteinas
+443, Salame,34.7,398.0,1665.0,25.8,30.6,85.0,2.9,2.2,5.9,87.0,30.0,0,Proteinas
+445, Toucinho frito,6.3,697.0,2914.0,27.3,64.3,89.0,0.0,2.2,0.7,9.0,9.0,0,Proteinas
+446, Bebida láctea pêssego,87.7,55.0,231.0,2.1,1.9,5.0,7.6,0.3,0.7,89.0,9.0,3,Leves / Baixa caloria
+447, Creme de Leite,70.9,221.0,927.0,1.5,22.5,66.0,4.5,2.2,0.6,83.0,8.0,3,Leves / Baixa caloria
+448, Iogurte natural,90.0,51.0,215.0,4.1,3.0,14.0,1.9,2.2,0.9,143.0,11.0,3,Leves / Baixa caloria
+449, Iogurte natural desnatado,89.2,41.0,174.0,3.8,0.3,3.0,5.8,2.2,0.9,157.0,12.0,3,Leves / Baixa caloria
+450, Iogurte sabor abacaxi,59.6,212.0,889.0,7.0,5.8,6.0,9.4,2.2,1.1,19.0,17.0,3,Leves / Baixa caloria
+451, Iogurte sabor morango,84.6,70.0,291.0,2.7,2.3,7.0,9.7,0.2,0.6,101.0,8.0,3,Leves / Baixa caloria
+452, Iogurte sabor pêssego,85.1,68.0,284.0,2.5,2.3,8.0,9.4,0.7,0.6,95.0,8.0,3,Leves / Baixa caloria
+453, Leite condensado,27.0,313.0,1308.0,7.7,6.7,28.0,57.0,2.2,1.6,246.0,22.0,1,Alta Energia/Carbo
+454, Leite de cabra,87.1,66.0,278.0,3.1,3.8,14.0,5.2,2.2,0.9,112.0,10.0,3,Leves / Baixa caloria
+455, Leite de vaca achocolatado,80.9,83.0,347.0,2.1,2.2,6.0,14.2,0.6,0.7,70.0,13.0,3,Leves / Baixa caloria
+456, Leite de vaca desnatado pó,3.1,362.0,1513.0,34.7,0.9,25.0,53.0,2.2,8.2,1363.0,109.0,0,Proteinas
+457, Leite de vaca desnatado UHT,59.6,212.0,889.0,7.0,5.8,4.0,9.4,2.2,0.8,134.0,10.0,3,Leves / Baixa caloria
+458, Leite de vaca integral,59.6,212.0,889.0,7.0,5.8,10.0,9.4,2.2,0.8,123.0,10.0,3,Leves / Baixa caloria
+459, Leite de vaca integral pó,2.7,497.0,2078.0,25.4,26.9,85.0,39.2,2.2,5.8,890.0,77.0,1,Alta Energia/Carbo
+460, Leite fermentado,81.9,70.0,291.0,1.9,0.1,2.0,15.7,2.2,0.5,72.0,6.0,3,Leves / Baixa caloria
+461, Queijo minas frescal,56.1,264.0,1106.0,17.4,20.2,62.0,3.2,2.2,3.0,579.0,7.0,0,Proteinas
+462, Queijo minas meia cura,47.1,321.0,1342.0,21.2,24.6,76.0,3.6,2.2,3.5,696.0,27.0,0,Proteinas
+463, Queijo mozarela,45.3,330.0,1380.0,22.6,25.2,80.0,3.0,2.2,3.8,875.0,24.0,0,Proteinas
+464, Queijo parmesão,21.2,453.0,1895.0,35.6,33.5,106.0,1.7,2.2,8.0,992.0,33.0,0,Proteinas
+465, Queijo pasteurizado,54.4,303.0,1268.0,9.4,27.4,82.0,5.7,2.2,3.1,323.0,16.0,0,Proteinas
+466, Queijo petit suisse morango,72.2,121.0,507.0,5.8,2.8,12.0,18.5,2.2,0.7,731.0,27.0,3,Leves / Baixa caloria
+467, Queijo prato,42.4,360.0,1506.0,22.7,29.1,91.0,1.9,2.2,3.9,940.0,28.0,0,Proteinas
+468, Queijo requeijão cremoso,62.5,257.0,1074.0,9.6,23.4,74.0,2.4,2.2,2.0,259.0,12.0,3,Leves / Baixa caloria
+469, Queijo ricota,73.6,140.0,585.0,12.6,8.1,49.0,3.8,2.2,1.9,253.0,12.0,3,Leves / Baixa caloria
+470, Bebida isotônica sabores variados,93.5,26.0,107.0,0.0,0.0,76.5,6.4,2.2,0.1,1.0,17.0,3,Leves / Baixa caloria
+471, Café infusão 10%,97.4,9.0,38.0,0.7,0.1,76.5,1.5,2.2,0.4,3.0,10.0,3,Leves / Baixa caloria
+473, Cana caldo de,81.7,65.0,273.0,7.0,5.8,76.5,18.2,0.1,0.1,9.0,12.0,3,Leves / Baixa caloria
+475, Chá erva-doce infusão 5%,99.6,1.0,6.0,0.0,0.0,76.5,0.4,2.2,0.0,2.0,1.0,3,Leves / Baixa caloria
+476, Chá mate infusão 5%,99.3,3.0,11.0,0.0,0.1,76.5,0.6,2.2,0.0,1.0,2.0,3,Leves / Baixa caloria
+477, Chá preto infusão 5%,99.4,2.0,9.0,0.0,0.0,76.5,0.6,2.2,0.0,0.0,1.0,3,Leves / Baixa caloria
+478, Coco água de,94.3,22.0,90.0,0.0,0.0,76.5,5.3,0.1,0.5,19.0,5.0,3,Leves / Baixa caloria
+479, Refrigerante tipo água tônica,92.0,31.0,129.0,0.0,0.0,76.5,8.0,2.2,0.0,1.0,17.0,3,Leves / Baixa caloria
+480, Refrigerante tipo cola,91.3,34.0,140.0,0.0,0.0,76.5,8.7,2.2,0.1,1.0,17.0,3,Leves / Baixa caloria
+481, Refrigerante tipo guaraná,90.0,39.0,162.0,0.0,0.0,76.5,10.0,2.2,0.0,1.0,17.0,3,Leves / Baixa caloria
+482, Refrigerante tipo laranja,88.2,46.0,191.0,0.0,0.0,76.5,11.8,2.2,0.0,2.0,1.0,3,Leves / Baixa caloria
+483, Refrigerante tipo limão,89.7,40.0,166.0,0.0,0.0,76.5,10.3,2.2,0.0,2.0,1.0,3,Leves / Baixa caloria
+484, Omelete de queijo,60.5,268.0,1121.0,15.6,22.0,384.0,0.4,2.2,1.5,166.0,14.0,0,Proteinas
+486, Ovo de galinha clara cozida/10minutos,85.2,59.0,249.0,13.4,0.1,76.5,0.0,2.2,0.7,6.0,11.0,3,Leves / Baixa caloria
+487, Ovo de galinha gema cozida/10minutos,50.0,353.0,1476.0,15.9,30.8,1272.0,1.6,2.2,1.7,114.0,9.0,0,Proteinas
+488, Ovo de galinha inteiro cozido/10minutos,75.8,146.0,610.0,13.3,9.5,397.0,0.6,2.2,0.8,49.0,11.0,3,Leves / Baixa caloria
+490, Ovo de galinha inteiro frito,63.5,240.0,1005.0,15.6,18.6,516.0,1.2,2.2,1.1,73.0,16.0,0,Proteinas
+491, Achocolatado pó,1.1,401.0,1678.0,4.2,2.2,76.5,91.2,3.9,1.4,44.0,77.0,1,Alta Energia/Carbo
+492, Açúcar cristal,0.1,387.0,1619.0,0.3,5.8,76.5,99.6,2.2,1.1,8.0,1.0,1,Alta Energia/Carbo
+493, Açúcar mascavo,3.3,369.0,1542.0,0.8,0.1,76.5,94.5,2.2,1.4,127.0,80.0,1,Alta Energia/Carbo
+494, Açúcar refinado,0.1,387.0,1617.0,0.3,5.8,76.5,99.5,2.2,1.1,4.0,1.0,1,Alta Energia/Carbo
+495, Chocolate ao leite,1.3,540.0,2258.0,7.2,30.3,17.0,59.6,2.2,1.7,191.0,57.0,1,Alta Energia/Carbo
+496, Chocolate ao leite com castanha do Pará,1.2,559.0,2338.0,7.4,34.2,16.0,55.4,2.5,1.8,171.0,80.0,1,Alta Energia/Carbo
+497, Chocolate ao leite dietético,1.7,557.0,2330.0,6.9,33.8,13.0,56.3,2.8,1.3,188.0,67.0,1,Alta Energia/Carbo
+498, Chocolate meio amargo,1.0,475.0,1987.0,4.9,29.9,2.0,62.4,4.9,1.8,45.0,107.0,1,Alta Energia/Carbo
+499, Cocada branca,3.4,449.0,1878.0,1.1,13.6,76.5,81.4,3.6,0.5,7.0,17.0,1,Alta Energia/Carbo
+500, Doce de abóbora cremoso,43.9,199.0,832.0,0.9,0.2,76.5,54.6,2.3,0.4,13.0,6.0,3,Leves / Baixa caloria
+501, Doce de leite cremoso,27.5,306.0,1282.0,5.5,6.0,20.0,59.5,2.2,1.5,195.0,16.0,1,Alta Energia/Carbo
+502, Geléia mocotó natural,73.5,106.0,444.0,2.1,0.1,76.5,24.2,2.2,0.1,4.0,1.0,3,Leves / Baixa caloria
+503, Glicose de milho,20.4,292.0,1222.0,0.0,0.0,76.5,79.4,2.2,0.2,6.0,2.0,1,Alta Energia/Carbo
+504, Maria mole,21.6,301.0,1260.0,3.8,0.2,76.5,73.6,0.7,0.9,13.0,7.0,1,Alta Energia/Carbo
+505, Maria mole coco queimado,20.7,307.0,1283.0,3.9,0.1,76.5,75.1,0.6,0.2,19.0,6.0,1,Alta Energia/Carbo
+506, Marmelada,28.5,257.0,1076.0,0.4,0.1,76.5,70.8,4.1,0.2,11.0,6.0,1,Alta Energia/Carbo
+507, Mel de abelha,15.8,309.0,1294.0,0.0,0.0,76.5,84.0,2.2,0.1,10.0,6.0,1,Alta Energia/Carbo
+508, Melado,22.1,297.0,1241.0,0.0,0.0,76.5,76.6,2.2,1.3,102.0,115.0,1,Alta Energia/Carbo
+509, Quindim,23.9,411.0,1721.0,4.7,24.4,271.0,46.3,3.2,0.6,37.0,15.0,1,Alta Energia/Carbo
+510, Rapadura,7.1,352.0,1473.0,1.0,0.1,76.5,90.8,2.2,1.1,30.0,47.0,1,Alta Energia/Carbo
+511, Café pó torrado,2.9,419.0,1752.0,14.7,11.9,76.5,65.8,51.2,4.7,107.0,165.0,2,Alimentos em Fibras
+512, Capuccino pó,2.6,417.0,1746.0,11.3,8.6,29.0,73.6,2.4,3.8,467.0,71.0,1,Alta Energia/Carbo
+513, Fermento em pó químico,7.1,90.0,375.0,0.5,0.1,76.5,43.9,2.2,48.5,19.0,17.0,3,Leves / Baixa caloria
+514, Fermento biológico levedura tablete,71.9,90.0,376.0,17.0,1.5,76.5,7.7,4.2,1.9,18.0,38.0,3,Leves / Baixa caloria
+515, Gelatina sabores variados pó,1.2,380.0,1591.0,8.9,5.8,76.5,89.2,2.2,0.6,27.0,2.0,1,Alta Energia/Carbo
+516, Sal dietético,0.6,212.0,889.0,7.0,5.8,76.5,9.4,2.2,99.4,19.0,17.0,3,Leves / Baixa caloria
+517, Sal grosso,0.4,212.0,889.0,7.0,5.8,76.5,9.4,2.2,1.1,19.0,17.0,3,Leves / Baixa caloria
+518, Shoyu,70.6,61.0,255.0,3.3,0.3,76.5,11.6,2.2,14.1,15.0,24.0,3,Leves / Baixa caloria
+519, Tempero a base de sal,7.7,21.0,89.0,2.7,0.3,76.5,2.1,0.6,87.3,19.0,17.0,3,Leves / Baixa caloria
+520, Azeitona preta conserva,68.5,194.0,812.0,1.2,20.3,76.5,5.5,4.6,4.5,59.0,5.0,3,Leves / Baixa caloria
+521, Azeitona verde conserva,76.3,137.0,573.0,0.9,14.2,76.5,4.1,3.8,4.5,46.0,4.0,3,Leves / Baixa caloria
+522, Chantilly spray com gordura vegetal,55.1,315.0,1318.0,0.5,27.3,76.5,16.9,2.2,0.2,2.0,1.0,1,Alta Energia/Carbo
+523, Leite de coco,78.0,166.0,695.0,1.0,18.4,76.5,2.2,0.7,0.4,6.0,17.0,3,Leves / Baixa caloria
+524, Maionese tradicional com ovos,58.4,302.0,1264.0,0.6,30.5,42.0,7.9,2.2,2.6,3.0,1.0,3,Leves / Baixa caloria
+525, Acarajé,50.5,289.0,1210.0,8.3,19.9,25.0,19.1,9.4,2.1,124.0,51.0,2,Alimentos em Fibras
+526, Arroz carreteiro,68.0,154.0,643.0,10.8,7.1,36.0,11.6,1.5,2.4,13.0,9.0,3,Leves / Baixa caloria
+527, Baião de dois arroz e feijão-de-corda,69.1,136.0,568.0,6.2,3.2,4.0,20.4,5.1,1.1,33.0,19.0,3,Leves / Baixa caloria
+528, Barreado,71.2,165.0,690.0,18.3,9.5,60.0,0.2,0.1,0.8,15.0,21.0,0,Proteinas
+529, Bife à cavalo com contra filé,54.2,291.0,1219.0,23.7,21.1,257.0,0.0,2.2,1.1,26.0,19.0,0,Proteinas
+530, Bolinho de arroz,41.5,274.0,1144.0,8.0,8.3,70.0,41.7,2.7,0.5,24.0,13.0,1,Alta Energia/Carbo
+531, Camarão à baiana,82.0,101.0,422.0,7.9,6.0,117.0,3.2,0.4,0.9,43.0,15.0,3,Leves / Baixa caloria
+532, Charuto de repolho,81.5,78.0,327.0,6.8,1.1,21.0,10.1,1.5,0.4,23.0,13.0,3,Leves / Baixa caloria
+533, Cuscuz de milho cozido com sal,71.1,113.0,475.0,2.2,0.7,76.5,25.3,2.1,0.7,2.0,3.0,3,Leves / Baixa caloria
+534, Cuscuz paulista,68.9,142.0,595.0,2.6,4.6,15.0,22.5,2.4,1.3,14.0,5.0,3,Leves / Baixa caloria
+535, Cuxá molho,81.0,80.0,335.0,5.6,3.6,58.0,5.7,3.0,4.0,105.0,34.0,3,Leves / Baixa caloria
+536, Dobradinha,75.3,125.0,521.0,19.8,4.4,144.0,0.0,2.2,0.3,11.0,8.0,0,Proteinas
+537, Estrogonofe de carne,70.1,173.0,724.0,15.0,10.8,66.0,3.0,2.2,1.1,28.0,22.0,0,Proteinas
+538, Estrogonofe de frango,70.9,157.0,656.0,17.6,8.0,80.0,2.6,2.2,1.0,26.0,25.0,0,Proteinas
+539, Feijão tropeiro mineiro,61.7,152.0,634.0,10.2,6.8,68.0,19.6,3.6,1.8,41.0,36.0,3,Leves / Baixa caloria
+540, Feijoada,71.8,117.0,489.0,8.7,6.5,22.0,11.6,5.1,1.4,32.0,32.0,3,Leves / Baixa caloria
+541, Frango com açafrão,79.5,113.0,472.0,9.7,6.2,50.0,4.1,0.2,0.5,13.0,16.0,3,Leves / Baixa caloria
+542, Macarrão molho bolognesa,71.4,120.0,500.0,4.9,0.9,7.0,22.5,0.8,0.2,11.0,10.0,3,Leves / Baixa caloria
+543, Maniçoba,76.4,134.0,562.0,10.0,8.7,43.0,3.4,2.2,1.5,66.0,24.0,3,Leves / Baixa caloria
+544, Quibebe,81.1,86.0,361.0,8.6,2.7,76.5,6.6,1.7,1.0,8.0,10.0,3,Leves / Baixa caloria
+545, Salada de legumes com maionese,82.0,96.0,402.0,1.1,7.0,7.0,8.9,2.2,0.9,12.0,9.0,3,Leves / Baixa caloria
+546, Salada de legumes cozida no vapor,90.0,35.0,148.0,2.0,0.3,76.5,7.1,2.5,0.6,33.0,19.0,3,Leves / Baixa caloria
+547, Salpicão de frango,72.5,148.0,619.0,13.9,7.8,53.0,4.6,0.4,1.1,9.0,13.0,3,Leves / Baixa caloria
+548, Sarapatel,75.0,123.0,515.0,18.5,4.4,315.0,1.1,2.2,1.1,12.0,13.0,0,Proteinas
+549, Tabule,85.8,57.0,240.0,2.0,1.2,76.5,10.6,2.1,0.4,19.0,18.0,3,Leves / Baixa caloria
+550, Tacacá,85.2,47.0,196.0,7.0,0.4,71.0,3.4,0.2,4.1,45.0,30.0,3,Leves / Baixa caloria
+551, Tapioca com manteiga,24.9,348.0,1455.0,0.1,10.9,31.0,63.6,2.2,0.5,30.0,3.0,1,Alta Energia/Carbo
+552, Tucupi com pimenta-de-cheiro,91.9,27.0,114.0,2.1,0.3,76.5,4.7,0.2,1.0,28.0,42.0,3,Leves / Baixa caloria
+553, Vaca atolada,75.0,145.0,606.0,5.1,9.3,19.0,10.1,2.3,0.5,63.0,16.0,3,Leves / Baixa caloria
+554, Vatapá,58.4,255.0,1066.0,6.0,23.2,44.0,9.7,1.7,2.7,47.0,39.0,3,Leves / Baixa caloria
+555, Virado à paulista,48.6,307.0,1284.0,10.2,25.6,66.0,14.1,2.2,1.5,41.0,22.0,0,Proteinas
+556, Yakisoba,69.4,113.0,472.0,7.5,2.6,76.5,18.3,1.1,2.2,14.0,13.0,3,Leves / Baixa caloria
+558, Amendoim torrado salgado,1.7,606.0,2535.0,22.5,54.0,76.5,18.7,7.8,3.2,39.0,159.0,2,Alimentos em Fibras
+559, Ervilha em vagem,76.8,88.0,367.0,7.5,0.5,76.5,14.2,9.7,1.0,24.0,42.0,3,Leves / Baixa caloria
+560, Ervilha enlatada drenada,80.1,74.0,309.0,4.6,0.4,76.5,13.4,5.1,1.4,22.0,23.0,3,Leves / Baixa caloria
+561, Feijão carioca cozido,80.4,76.0,320.0,4.8,0.5,76.5,13.6,8.5,0.7,27.0,42.0,3,Leves / Baixa caloria
+563, Feijão fradinho cozido,80.0,78.0,326.0,5.1,0.6,76.5,13.5,7.5,0.8,17.0,38.0,3,Leves / Baixa caloria
+565, Feijão jalo cozido,75.8,93.0,388.0,6.1,0.5,76.5,16.5,13.9,1.0,29.0,44.0,2,Alimentos em Fibras
+567, Feijão preto cozido,80.2,77.0,322.0,4.5,0.5,76.5,14.0,8.4,0.8,29.0,40.0,3,Leves / Baixa caloria
+569, Feijão rajado cozido,77.9,85.0,354.0,5.5,0.4,76.5,15.3,9.3,0.9,29.0,42.0,3,Leves / Baixa caloria
+571, Feijão rosinha cozido,82.6,68.0,284.0,4.5,0.5,76.5,11.8,4.8,0.6,19.0,43.0,3,Leves / Baixa caloria
+573, Feijão roxo cozido,80.0,77.0,322.0,5.7,0.5,76.5,12.9,11.5,0.8,23.0,34.0,3,Leves / Baixa caloria
+577, Lentilha cozida,76.3,93.0,388.0,6.3,0.5,76.5,16.3,7.9,0.6,16.0,22.0,3,Leves / Baixa caloria
+579, Paçoca amendoim,1.8,487.0,2037.0,16.0,26.1,76.5,52.4,7.3,3.8,22.0,101.0,1,Alta Energia/Carbo
+580, Pé-de-moleque amendoim,2.9,503.0,2105.0,13.2,28.0,76.5,54.7,3.4,1.1,27.0,108.0,1,Alta Energia/Carbo
+581, Soja farinha,5.8,404.0,1690.0,36.0,14.6,76.5,38.4,20.2,5.1,206.0,242.0,2,Alimentos em Fibras
+582, Soja extrato solúvel natural fluido,91.3,39.0,164.0,2.4,1.6,76.5,4.3,0.4,0.5,17.0,15.0,3,Leves / Baixa caloria
+583, Soja extrato solúvel pó,4.5,459.0,1920.0,35.7,26.2,76.5,28.5,7.3,5.2,359.0,216.0,0,Proteinas
+584, Soja queijo (tofu),86.6,64.0,270.0,6.6,4.0,76.5,2.1,0.8,0.7,81.0,38.0,3,Leves / Baixa caloria
+586, Tremoço em conserva,67.7,121.0,505.0,11.1,3.8,76.5,12.4,14.4,5.0,16.0,4.0,2,Alimentos em Fibras
+587, Amêndoa torrada salgada,3.1,581.0,2430.0,18.6,47.3,76.5,29.5,11.6,1.5,237.0,222.0,2,Alimentos em Fibras
+588, Castanha-de-caju torrada salgada,3.5,570.0,2386.0,18.5,46.3,76.5,29.1,3.7,2.6,33.0,237.0,1,Alta Energia/Carbo
+593, Gergelim semente,3.9,584.0,2442.0,21.2,50.4,76.5,21.6,11.9,2.9,825.0,361.0,2,Alimentos em Fibras
+594, Linhaça semente,6.7,495.0,2072.0,14.1,32.3,76.5,43.3,33.5,3.7,211.0,347.0,2,Alimentos em Fibras
+595, Pinhão cozido,50.5,174.0,730.0,3.0,0.7,76.5,43.9,15.6,1.8,16.0,53.0,2,Alimentos em Fibras
+596, Pupunha cozida,54.5,219.0,914.0,2.5,12.8,76.5,29.6,4.3,0.7,28.0,25.0,3,Leves / Baixa caloria
